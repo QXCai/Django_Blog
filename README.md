@@ -32,8 +32,4 @@ cd /e/SDYP/program/python/Django/tutorial
 2.地图    
 3.excel
 
-$$
-\ COD = {e^a}{GDP^b}{POP^c}\\    
-\ [a,b,c] = [8.8447,-1.7255,2.5265] \\    
-\ R^2 = 0.649    
-$$
+<a href="https://www.codecogs.com/eqnedit.php?latex=ax^{2}&space;&plus;&space;by^{2}&space;&plus;&space;c&space;=&space;0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?ax^{2}&space;&plus;&space;by^{2}&space;&plus;&space;c&space;=&space;0" title="ax^{2} + by^{2} + c = 0" /></a>
