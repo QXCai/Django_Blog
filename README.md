@@ -31,3 +31,9 @@ cd /e/SDYP/program/python/Django/tutorial
 1.数据库似乎用的是SQLite，但是实践中没有看到设置数据库的步骤，自动就设置好了。    
 2.地图    
 3.excel
+
+$$
+\ COD = {e^a}{GDP^b}{POP^c}\\    
+\ [a,b,c] = [8.8447,-1.7255,2.5265] \\    
+\ R^2 = 0.649    
+$$
